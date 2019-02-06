@@ -1,0 +1,46 @@
+Lecture 1:
+
+Canvas
+-Weekly homework due every Friday
+-1st hw due Friday Aug 31
+-Course projects 
+
+Traditional Cybersecurity Concepts:
+	Confidentiality
+	Integrity
+	Availability
+	
+Extended:
+	Confidentiality: Rules that limit access to system data and information to authorized persons
+	Integrity: Assurance that the data and information are accurate and trustworthy
+	Availability: The data, information and system are accessible
+	Risk: Potential for gain or loss
+	Adversarial Thinking: Considers the potential actins of the opposing force working against the desired result
+	Systems Thinking: considers the interplay between social and technical constraints to enable assured operations
+
+
+
+Read Chapter 1 from textbook
+
+
+Levels of impact
+-low
+-moderate
+-high
+
+
+Vulnerabilities, Threats, and Attacks
+	Categories of vulnerabilities
+	-Corrupted
+	-Leaky
+	-Unavailable or very slow
+	
+	Threats
+	-Capable of exploiting vulnerabilities
+	-Represent potential security harm to an asset
+
+	Attacks
+	-Passive
+	-Active
+	-Insider
+	-Outsider

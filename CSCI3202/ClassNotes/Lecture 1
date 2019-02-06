@@ -1,0 +1,35 @@
+Lecture 1:
+
+Artificial Intelligence
+-Automated Reasoning
+	-Logic
+-Knowledge Representation
+-Machine Learning
+	-Themes and correlations in data
+-Natural Language Processing
+-Computer Vision
+-Robotics
+	-Physical Body
+
+What do these have in common?
+		'Thinking'
+
+What is rational?
+	-Maximally achieving pre-defined goals
+	Goals
+	Utility: What do you value?
+	Maximize
+	Expected
+
+Course Plan
+	Finding optimal solutions
+		-Search Algorithms
+		-Search Heuristics
+		-Game Trees
+	Dealing with uncertainty
+	Machine learning
+	KNowledge Representations
+
+
+Enroll in moodle
+enrollment key: csci3202
